@@ -1,7 +1,7 @@
 Grupo 5
 
-Julio Roldan
+- Julio Roldan
 
-Enzo Manfredi
+- Enzo Manfredi
 
-Gabriel Cortacans (referente GIT)
+- Gabriel Cortacans (referente GIT)
